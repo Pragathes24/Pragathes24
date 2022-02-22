@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pragathes24
 - 👀 I’m interested in ...Web Development And Cyber Security
-- 🌱 I’m currently learning ...Electrical And Electronic Engineering
+- 🌱 I’m currently learning ...Electrical And Electronic Engineering At VIT
 - 💞️ I’m looking to collaborate on ...Web Development,Backend and Frontend Development
 - 📫 How to reach me ...my whatsapp 8220498484
 
